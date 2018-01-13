@@ -1,0 +1,39 @@
+/* 字体雅黑* */
+
+/* html {
+    width: 
+} */
+/* 网站宽度 */
+
+/* .container {
+    background-color: lightgray;
+    width: 100%;
+    height: 100%;
+} */
+.clear {
+    clear: both;
+}
+
+#nav {
+    position: fixed;
+    top: 0;
+    background-color: red;
+    width: 100%;
+    height: 150px;
+    /* font-size: 20px; */
+}
+
+#nav ul {
+    display: inline-block;
+    float: right;
+    vertical-align: middle;
+    background-color: yellow;
+    /* text-decoration: none; */
+}
+
+#nav ul li{
+    margin: 10px 60px;
+    float: left;
+    /* text-decoration: double; */
+    font-size: 50px;
+}
